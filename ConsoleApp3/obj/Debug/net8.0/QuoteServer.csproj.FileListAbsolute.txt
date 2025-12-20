@@ -1,0 +1,15 @@
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\QuoteServer.exe
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\QuoteServer.deps.json
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\QuoteServer.runtimeconfig.json
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\QuoteServer.dll
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\net8.0\QuoteServer.pdb
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.AssemblyInfoInputs.cache
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.AssemblyInfo.cs
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.csproj.CoreCompileInputs.cache
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.sourcelink.json
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.dll
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\refint\QuoteServer.dll
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.pdb
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\QuoteServer.genruntimeconfig.cache
+C:\Users\влад\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\net8.0\ref\QuoteServer.dll
