@@ -1,0 +1,14 @@
+C:\Users\влад\source\repos\weather----master\weather+\bin\Debug\weather+.exe.config
+C:\Users\влад\source\repos\weather----master\weather+\bin\Debug\weather+.exe
+C:\Users\влад\source\repos\weather----master\weather+\bin\Debug\weather+.pdb
+C:\Users\влад\source\repos\weather----master\weather+\bin\Debug\Newtonsoft.Json.dll
+C:\Users\влад\source\repos\weather----master\weather+\bin\Debug\Newtonsoft.Json.xml
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather_report.csproj.AssemblyReference.cache
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather_.Form1.resources
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather_.Form2.resources
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather_.Properties.Resources.resources
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather_report.csproj.GenerateResource.cache
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather_report.csproj.CoreCompileInputs.cache
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather_.8E430923.Up2Date
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather+.exe
+C:\Users\влад\source\repos\weather----master\weather+\obj\Debug\weather+.pdb

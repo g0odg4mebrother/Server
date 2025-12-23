@@ -1,0 +1,13 @@
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.AssemblyReference.cache
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form1.resources
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form2.resources
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form3.resources
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Form4.resources
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe.config
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.exe
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\bin\Debug\WindowsFormsApp8.pdb
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.exe
+C:\Users\влад\source\repos\WindowsFormsApp8-master\WindowsFormsApp8\obj\Debug\WindowsFormsApp8.pdb
