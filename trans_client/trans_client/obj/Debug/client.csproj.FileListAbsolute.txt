@@ -1,0 +1,7 @@
+C:\Users\влад\source\repos\clientrassilka-master\clientrassilka\bin\Debug\clientrassilka.exe.config
+C:\Users\влад\source\repos\clientrassilka-master\clientrassilka\bin\Debug\clientrassilka.exe
+C:\Users\влад\source\repos\clientrassilka-master\clientrassilka\bin\Debug\clientrassilka.pdb
+C:\Users\влад\source\repos\clientrassilka-master\clientrassilka\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\влад\source\repos\clientrassilka-master\clientrassilka\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\влад\source\repos\clientrassilka-master\clientrassilka\obj\Debug\clientrassilka.exe
+C:\Users\влад\source\repos\clientrassilka-master\clientrassilka\obj\Debug\clientrassilka.pdb
